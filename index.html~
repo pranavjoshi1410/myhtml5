@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Aerial by HTML5 UP</title>
+		<title>Pranav Joshi</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -34,11 +34,11 @@
 						<p>GTU PG School &nbsp;&bull;&nbsp; Gandhinagar &nbsp;&bull;&nbsp; </p>
 						<nav>
 							<ul>
-								<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-								<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-								<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
-								<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
-								<li><a href="#" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+								<li><a href="https://twitter.com/pranav__joshi" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+								<li><a href="https://www.facebook.com/prnvjoshi" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+								<li><a href="https://dribbble.com/pranavjoshi" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
+								<li><a href="https://github.com/pranavjoshi1410" class="icon fa-github"><span class="label">Github</span></a></li>
+								<li><a href="pranavjoshi1410@gmail.com" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
 							</ul>
 						</nav>
 					</header>
